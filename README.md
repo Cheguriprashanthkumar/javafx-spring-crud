@@ -57,7 +57,7 @@ Copy
 Edit
 cd backend
 mvn spring-boot:run
-Backend runs at: http://localhost:8080
+Backend runs at: http://localhost:8081
 
 📁 Frontend
 1️⃣ Navigate to the frontend/ folder
