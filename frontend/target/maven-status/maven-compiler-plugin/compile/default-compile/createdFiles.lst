@@ -1,0 +1,10 @@
+com\example\frontend\Product.class
+com\example\frontend\ProductForm.class
+com\example\frontend\ProductScreen$1.class
+com\example\frontend\User.class
+com\example\frontend\ProductScreen.class
+com\example\frontend\LoginScreen.class
+com\example\frontend\RegisterScreen.class
+com\example\frontend\AuthContext.class
+com\example\frontend\JavaFXApp.class
+com\example\frontend\LoginScreen$LoginRequest.class
